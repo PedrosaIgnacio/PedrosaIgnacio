@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Ignacio Pedrosa from Córdoba, Argentina. I have 24 years and programming is my passion. Have a nice day !!
+I'm Ignacio Pedrosa from Córdoba, Argentina. I have 24 years old and programming is my passion. Have a nice day !!
 
 <h4>🔭 I’m currently working on CIDS (Software Research and Development Center) FRC-UTN </h4>
 <h4>💻 My tech stack is below:</h4>
