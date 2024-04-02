@@ -1,6 +1,5 @@
 # Hi there 👋
 I'm Ignacio Pedrosa from Córdoba, Argentina. I have 25 years old and programming is my passion. Have a nice day !!
-
 <br />
 
 ## Languages and Tools
