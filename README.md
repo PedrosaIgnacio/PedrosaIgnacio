@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Ignacio Pedrosa</h1>
-<h3 align="center">💻 Developer from Córdoba, Argentina</h3>
+# Hi there 👋, I'm Ignacio Pedrosa
+### 💻 Developer from Córdoba, Argentina
 
-<p align="center">
+<p align="left">
   I'm a 27-year-old passionate software developer with a strong interest in modern web technologies, clean code, and solving real-world problems through software. Always learning, always building.
 </p>
 
