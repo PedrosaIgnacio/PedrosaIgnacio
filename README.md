@@ -34,5 +34,5 @@
 
 ### 📫 Contact
 
-- 📧 Email: **ignaciopedrosa1998@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciopedrosa/) *(si tenés perfil, podés agregarlo)*
+- 📧 Email: **ipedrosa.dev@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrosaignacio/)
