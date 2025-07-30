@@ -1,28 +1,38 @@
-# Hi there 👋
-I'm Ignacio Pedrosa from Córdoba, Argentina. I have 26 years old and programming is my passion. Have a nice day !!
-<br />
+<h1 align="center">Hi there 👋, I'm Ignacio Pedrosa</h1>
+<h3 align="center">💻 Developer from Córdoba, Argentina</h3>
 
-## Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<p align="center">
+  I'm a 26-year-old passionate software developer with a strong interest in modern web technologies, clean code, and solving real-world problems through software. Always learning, always building.
+</p>
 
-<div style="display:flex;flex-direction:column">
-  <div>
-      
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrosaignacio&show_icons=true&hide_border=true)
-      
-  </div>
-  <div>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaignacio)](https://github.com/pedrosaignacio)
-    
-  </div>
-</div>
-### - 📫 How to reach me: ignaciopedrosa1998@gmail.com
+---
 
-  
+### 🛠️ Languages & Tools
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="NestJS" height="30"/>
+</p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrosaignacio&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaignacio&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Contact
+
+- 📧 Email: **ignaciopedrosa1998@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciopedrosa/) *(si tenés perfil, podés agregarlo)*
