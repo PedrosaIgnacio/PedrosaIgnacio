@@ -35,4 +35,4 @@
 ### 📫 Contact
 
 - 📧 Email: **ipedrosa.dev@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrosaignacio/)
+- 💼 LinkedIn: **https://www.linkedin.com/in/pedrosaignacio/**
